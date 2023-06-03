@@ -10,7 +10,7 @@ Include [Bootstrap](https://getbootstrap.com)'s source Sass and an ES Module ver
 
 ### Clone repository
 ```sh
-git clone https://github.com/twbs/examples.git
+git clone https://github.com/blueflymedia/bootstrap5-template
 ```
 ### Using NPM
 npm install
